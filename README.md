@@ -10,6 +10,24 @@ Entry-level Full Stack Web and Mobile Developer trained through a four-month int
 
 ---
 
+## 🎓 Education
+
+### **Bachelor of Science in Computer Science** — *University of Dayton*
+📍 Dayton, Ohio, USA | 🗓️ `January 2019 – May 2024`
+- **Cumulative GPA:** `3.32 / 4.00`
+- **Academic Honors:** Dean's List *(Summer 2023 & Spring 2024)*
+
+---
+
+## 🚀 Experience & Training
+
+- **Full Stack Web and Mobile Development Bootcamp** — *Abad Network for Training (ABAD), Riyadh* (`July 2026 – November 2026`, 4 months)  
+  Hands-on training in SQL, C#, OOP, HTML/CSS, JavaScript, Bootstrap, EF Core, ASP.NET Core MVC, ASP.NET Core Web API, Clean Architecture, and Flutter.
+- **App Development Trainee** — *Tatweer Educational Technologies, Riyadh* (`April 2025 – November 2025`, 6 months)  
+  Training and mentorship in SQL, C#, OOP, HTML/CSS, JavaScript, EF Core, ASP.NET Core MVC, ASP.NET Core Web API, and Domain Driven Design.
+
+---
+
 ## 🛠️ Technical Skills
 
 - **Languages:** C#, Dart, JavaScript, SQL
@@ -22,14 +40,6 @@ Entry-level Full Stack Web and Mobile Developer trained through a four-month int
 
 ---
 
-## 🚀 Experience & Training
-
-- **Full Stack Web and Mobile Development Bootcamp** — *Abad Network for Training (ABAD), Riyadh* (`July 2026 – November 2026`, 4 months)  
-  Hands-on training in SQL, C#, OOP, HTML/CSS, JavaScript, Bootstrap, EF Core, ASP.NET Core MVC, ASP.NET Core Web API, Clean Architecture, and Flutter.
-- **App Development Trainee** — *Tatweer Educational Technologies, Riyadh* (`April 2025 – November 2025`, 6 months) 
-  Training and mentorship in SQL, C#, OOP, HTML/CSS, JavaScript, EF Core, ASP.NET Core MVC, ASP.NET Core Web API, and Domain Driven Design.
-
----
 ## 🛠 Technologies
 
 <p align="center">
@@ -51,18 +61,18 @@ Entry-level Full Stack Web and Mobile Developer trained through a four-month int
 
 ## 📂 Featured Projects
 
-1. **Training Center Database Management System** (`SQL Server` · `T-SQL`) 
+1. **Training Center Database Management System** (`SQL Server` · `T-SQL`)  
    Relational database for courses, trainers, trainees, enrollments, schedules, and payments featuring tables, primary/foreign keys, relationships, joins, and reporting queries.  
    [View Repository](https://github.com/almasouda982/Abdulazeez-Almasoud/blob/master/Main%20Projects/Project1_SQL/Project1_Abdulazeez-Almasoud.sql)
 
-2. **University Dashboard Web Application** (`ASP.NET Core MVC` · `Entity Framework Core` · `SQL Server` · `Bootstrap`) 
-   Web application for course, student, and records management using MVC views, CRUD operations, and database integration  
+2. **University Dashboard Web Application** (`ASP.NET Core MVC` · `Entity Framework Core` · `SQL Server` · `Bootstrap`)  
+   Web application for course, student, and records management using MVC views, CRUD operations, and database integration.  
    [View Repository](https://github.com/almasouda982/Abdulazeez-Almasoud/tree/master/Main%20Projects/Project6_ASP_NET_MVC/University)
 
 3. **University Dashboard REST API** (`ASP.NET Core Web API` · `EF Core` · `SQL Server` · `Swagger`)  
    RESTful endpoints for courses, students, and degree programs with JSON responses, database operations, and API testing.  
    [View Repository](https://github.com/almasouda982/Abdulazeez-Almasoud/tree/master/Main%20Projects/Project6_ASP_NET_MVC/University/University.API)
 
-4. **University Admin Mobile Application** (`Flutter` · `Dart` · `REST API` · `JSON`) 
+4. **University Admin Mobile Application** (`Flutter` · `Dart` · `REST API` · `JSON`)  
    Flutter mobile interface for browsing the university dashboard as an admin, viewing details, and managing data via the University Dashboard API.  
    [View Repository](https://github.com/almasouda982/Abdulazeez-Almasoud/tree/master/Main%20Projects/Project6_Mobile_App_University)
