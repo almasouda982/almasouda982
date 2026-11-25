@@ -36,7 +36,7 @@ Entry-level Full Stack Web and Mobile Developer trained through a four-month int
 - **Mobile:** Flutter, widgets, state management fundamentals, HTTP, JSON, API integration
 - **Database:** Microsoft SQL Server, relational design, joins, constraints, indexes, CRUD
 - **Architecture:** OOP, Clean Architecture fundamentals, Domain Driven Design, dependency injection, DTOs, repository pattern
-- **Tools:** Visual Studio, VS Code, SQL Server Management Studio, Postman, Swagger/OpenAPI, Git, GitHub
+- **Tools:** Visual Studio, VS Code, SQL Server Management Studio, Swagger/OpenAPI, Git, GitHub
 
 ---
 
